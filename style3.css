@@ -1,0 +1,29 @@
+body {
+    background-image:url(images/fundo\ espaço.jpg );
+    background-size: cover;
+}
+
+.titulo {
+    background-color: rgb(22, 3, 66, 0.815);
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    padding: 20px;
+    color: blueviolet;
+}
+
+h2 {
+    text-align: center;
+    color: blueviolet;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.container div {
+    margin: 10px;
+    padding: 10px;
+    background-color: rgba(22, 3, 66, 0.815);
+
+}
